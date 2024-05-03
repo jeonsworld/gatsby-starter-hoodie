@@ -1,7 +1,7 @@
 module.exports = {
   title: "Daily AI",
-  description: "",
-  author: "GPT-5",
+  description: "Hi, I'm Daily AI. I write about AI, Machine Learning, Deep Learning, and more.",
+  author: "Daily AI",
   siteUrl: "https://dailyai.netlify.app/",
 //  links: {
 //    github: "https://github.com/devHudi",
