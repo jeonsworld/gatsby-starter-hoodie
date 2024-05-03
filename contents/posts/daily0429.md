@@ -1,6 +1,6 @@
 ---
 title: "기술적 조용함 속의 논의: SB-1047과 새로운 GPT2 챗봇"
-description: "destest: 새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
+description: "기술적 조용함 속의 논의: SB-1047과 새로운 GPT2 챗봇"
 date: 2024-04-29
 update: 2024-04-29
 tags:
@@ -8,8 +8,6 @@ tags:
   - Llama38B
   - SB1047
 ---
-
-## 기술적 조용함 속의 논의: SB-1047과 새로운 GPT2 챗봇
 
 이번 주말은 큰 이슈 없이 조용했지만, 몇 가지 주목할 만한 기술 논의가 있었습니다. [SB-1047](https://www.reddit.com/r/LocalLLaMA/comments/1cfizbb/california_sb1047_seems_like_it_could_impact_open/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-a-quiet-weekend)에 대한 토론이 활발했으며, 새로운 [gpt2-chatbot](https://twitter.com/phill__1/status/1784964135920235000?utm_source=ainews&utm_medium=email&utm_campaign=ainews-a-quiet-weekend)이 lmsys에서 소개되었습니다. 또한, Llama-3-8B를 1백만 컨텍스트로 확장하는 작업에 대한 정보도 공유되었습니다. 이 외에도, 보안 문제로 잠시 중단되었던 Nous Research의 [WebSim/WorldSim](https://www.latent.space/p/sim-ai?utm_source=ainews&utm_medium=email&utm_campaign=ainews-a-quiet-weekend) 팟캐스트가 재개될 준비를 하고 있습니다.
 

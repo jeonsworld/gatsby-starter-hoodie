@@ -1,6 +1,6 @@
 ---
 title: "새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
-description: "destest: 새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
+description: "새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
 date: 2024-05-03
 update: 2024-05-03
 tags:
@@ -8,8 +8,6 @@ tags:
   - 멀티모달벤치마크
   - 모델진화
 ---
-
-## 새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다
 
 데이터 및 벤치마크 오염 문제는 종종 농담거리로 여겨졌지만, 올해는 MMLU와 GSM8K와 같은 잘 알려진 학술 벤치마크에서 자체 보고된 점수에 대한 신뢰도가 감소하면서 중대한 전환점에 이르렀습니다. Scale AI는 [새로운 GSM8K 유사 벤치마크](https://twitter.com/_akhaliq/status/1785866152700211283?utm_source=ainews&utm_medium=email&utm_campaign=ainews-evals-the-next-generation)를 제안하며, 이 벤치마크는 오염이 덜하며 Mistral은 GSM8K에서 눈에 띄게 과적합하는 반면, Phi-3는 놀라울 정도로 잘 수행합니다. ![image](https://assets.buttondown.email/images/4737565c-4a53-46ac-8c90-35d1c53b0523.png?w=960&fit=max)
 

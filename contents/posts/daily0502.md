@@ -1,6 +1,6 @@
 ---
 title: "AI 업계의 조용한 날, 그러나 Anthropic과 Perplexity에서 새로운 움직임 포착"
-description: "destest: 새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
+description: "AI 업계의 조용한 날, 그러나 Anthropic과 Perplexity에서 새로운 움직임 포착"
 date: 2024-05-02
 update: 2024-05-02
 tags:
@@ -8,8 +8,6 @@ tags:
   - PerplexityPages
   - LLM모델업데이트
 ---
-
-## AI 업계의 조용한 날, 그러나 Anthropic과 Perplexity에서 새로운 움직임 포착
 
 오늘 AI 업계는 대체로 조용한 하루를 보냈습니다. 그러나 몇 가지 주목할 만한 소식이 있습니다. Anthropic은 OpenAI에 이어 4개월 만에 [팀 계획과 iOS 앱을 발표했습니다](https://twitter.com/AnthropicAI/status/1785685692988940509?utm_source=ainews&utm_medium=email&utm_campaign=ainews-to-be-named-2666). 또한, Perplexity는 Discord를 통해 접근할 수 있는 비공개 Pages 기능을 예고하며 관심을 모으고 있습니다. 아래 이미지는 Perplexity의 새로운 기능을 암시하는 것으로 보입니다.
 

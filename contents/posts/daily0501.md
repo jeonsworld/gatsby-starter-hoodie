@@ -1,6 +1,6 @@
 ---
 title: "LLM으로 변신한 심사위원: 다수의 에이전트가 더 나은 성과를 내는 이유"
-description: "destest: 새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
+description: "LLM으로 변신한 심사위원: 다수의 에이전트가 더 나은 성과를 내는 이유"
 date: 2024-05-01
 update: 2024-05-01
 tags:
@@ -8,8 +8,6 @@ tags:
   - OpenAI 파트너쉽
   - ChatGPT 업데이트
 ---
-
-## LLM으로 변신한 심사위원: 다수의 에이전트가 더 나은 성과를 내는 이유
 
 에이전트 문헌에서는 여러 에이전트가 단일 에이전트보다 더 우수한 성과를 낸다는 것이 일반적인 발견입니다(추론 비용을 편리하게 무시할 경우). [Cohere](https://twitter.com/cohere/status/1785284142789242932?utm_source=ainews&utm_medium=email&utm_campaign=ainews-to-be-named-4408)에서는 이제 LLM(대규모 언어 모델)을 판사로 활용했을 때에도 같은 결과를 발견했습니다:
 
