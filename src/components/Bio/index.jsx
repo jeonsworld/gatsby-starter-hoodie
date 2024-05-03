@@ -91,20 +91,6 @@ const Link = ({ link, children }) => {
 }
 
 const Bio = () => {
-  const {
-    github,
-    kaggle,
-    instagram,
-    facebook,
-    twitter,
-    x,
-    blogger,
-    medium,
-    linkedIn,
-    email,
-    resume,
-    link,
-  } = links
 
   return (
     <BioWrapper id="bio">
@@ -112,44 +98,6 @@ const Bio = () => {
       <div>
         <Author>@{author}</Author>
         <Description>{description}</Description>
-        <LinksWrapper>
-          <Link link={github}>
-            <FaGithub />
-          </Link>
-          <Link link={kaggle}>
-            <FaKaggle />
-          </Link>
-          <Link link={instagram}>
-            <FaInstagram />
-          </Link>
-          <Link link={facebook}>
-            <FaFacebook />
-          </Link>
-          <Link link={twitter}>
-            <FaTwitter />
-          </Link>
-          <Link link={x}>
-            <FaXTwitter />
-          </Link>
-          <Link link={medium}>
-            <FaMedium />
-          </Link>
-          <Link link={blogger}>
-            <FaBlogger />
-          </Link>
-          <Link link={linkedIn}>
-            <FaLinkedin />
-          </Link>
-          <Link link={email}>
-            <FaRegEnvelope />
-          </Link>
-          <Link link={resume}>
-            <FaRegFileLines />
-          </Link>
-          <Link link={link}>
-            <FaLink />
-          </Link>
-        </LinksWrapper>
       </div>
     </BioWrapper>
   )
