@@ -17,7 +17,7 @@ module.exports = {
 //    link: "https://hudi.blog",
 //  },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "jeonsworld/dailyai-utteranc",
     type: "pathname",
   },
 }
