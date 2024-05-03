@@ -1,8 +1,8 @@
 ---
-title: "새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
+title: "기술적 조용함 속의 논의: SB-1047과 새로운 GPT2 챗봇"
 description: "destest: 새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
-date: 2024-05-04
-update: 2024-05-04
+date: 2024-04-29
+update: 2024-04-29
 tags:
   - gpt2chatbot
   - Llama38B

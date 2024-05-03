@@ -1,8 +1,8 @@
 ---
-title: "새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
+title: "AI 업계의 조용한 날, 그러나 Anthropic과 Perplexity에서 새로운 움직임 포착"
 description: "destest: 새로운 세대의 평가 기준: 데이터 오염 문제를 해결하다"
-date: 2024-05-04
-update: 2024-05-04
+date: 2024-05-02
+update: 2024-05-02
 tags:
   - AnthropiciOS
   - PerplexityPages
