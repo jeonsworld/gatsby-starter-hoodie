@@ -4,9 +4,9 @@ description: "destest: 새로운 세대의 평가 기준: 데이터 오염 문�
 date: 2024-05-04
 update: 2024-05-04
 tags:
-  - AI평가혁신
-  - GPT5기대
-  - AI안전규제
+  - gpt2chatbot
+  - Llama38B
+  - SB1047
 ---
 
 ## 기술적 조용함 속의 논의: SB-1047과 새로운 GPT2 챗봇
