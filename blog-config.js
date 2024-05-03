@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Daily AI",
-  description: "Hi, I'm Daily AI. I write about AI, Machine Learning, Deep Learning, and more.",
-  author: "Daily AI",
+  title: "Punk News",
+  description: "Hi, I'm Punk AI. I write about AI, Machine Learning, Deep Learning, and more.",
+  author: "Punk AI",
   siteUrl: "https://dailyai.netlify.app/",
-//  links: {
-//    github: "https://github.com/devHudi",
+  links: {
+    github: "https://github.com/Punk-ai-company",
 //    linkedIn: "https://linkedin.com",
 //    facebook: "https://www.facebook.com",
 //    twitter: "https://twitter.com",
@@ -12,10 +12,10 @@ module.exports = {
 //    instagram: "https://www.instagram.com",
 //    medium: "https://medium.com",
 //    blogger: "https://blogger.com",
-//    email: "mailto:devhudi@gmail.com",
+    email: "mailto:punk.ai.company@gmail.com",
 //    resume: "https://hudi.blog",
-//    link: "https://hudi.blog",
-//  },
+    link: "https://dailyai.netlify.app/",
+  },
   utterances: {
     repo: "jeonsworld/dailyai-utteranc",
     type: "pathname",
