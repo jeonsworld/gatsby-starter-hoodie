@@ -91,6 +91,11 @@ const Link = ({ link, children }) => {
 }
 
 const Bio = () => {
+  const {
+    github,
+    email,
+    link,
+  } = links
 
   return (
     <BioWrapper id="bio">
@@ -98,6 +103,17 @@ const Bio = () => {
       <div>
         <Author>@{author}</Author>
         <Description>{description}</Description>
+        <LinksWrapper>
+          <Link link={github}>
+            <FaGithub />
+          </Link>
+          <Link link={email}>
+            <FaRegEnvelope />
+          </Link>
+          <Link link={link}>
+            <FaLink />
+          </Link>
+        </LinksWrapper>
       </div>
     </BioWrapper>
   )
