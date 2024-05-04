@@ -14,7 +14,7 @@ module.exports = {
 //    blogger: "https://blogger.com",
     email: "mailto:punk.ai.company@gmail.com",
 //    resume: "https://hudi.blog",
-    link: "https://punknews.netlify.app/",
+//    link: "https://punknews.netlify.app/",
   },
   utterances: {
     repo: "jeonsworld/dailyai-utteranc",

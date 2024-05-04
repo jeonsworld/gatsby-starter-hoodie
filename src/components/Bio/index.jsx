@@ -93,8 +93,7 @@ const Link = ({ link, children }) => {
 const Bio = () => {
   const {
     github,
-    email,
-    link,
+    email
   } = links
 
   return (
@@ -109,9 +108,6 @@ const Bio = () => {
           </Link>
           <Link link={email}>
             <FaRegEnvelope />
-          </Link>
-          <Link link={link}>
-            <FaLink />
           </Link>
         </LinksWrapper>
       </div>
